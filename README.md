@@ -190,4 +190,32 @@ gをY上の実数値連続関数の層
 Forget(u)*→f*(u)
 φF→φg
 
+250p
+下から8行目
+i→j∈Mor(C)→i→j∈Mor(I)
+250p
+下から1行目
+i→j∈Mor(C)→i→j∈Mor(I^op)
+
+256p
+下から8行目
+xの開近傍U’とa∈Ox(V),s'∈F(V)→
+xの開近傍U’とa∈Ox(U'),s'∈F(U')
+
+256p
+下から6行目
+連続写像s+:X→Spe(F)=→
+連続写像s+:U→Spe(F)=
+
+259p
+下から5行目
+Ox,x加群としてFX,x⊗Ox,xgxと同型→
+Ox,x加群としてFX⊗Ox,xgxと同型
+
+279p
+したがって、Ox(U1∩U2)=→
+したがって、Ox(U1∪U2)=
+
+
+
 

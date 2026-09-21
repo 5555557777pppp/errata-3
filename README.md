@@ -1,4 +1,9 @@
 # errata-3
+43p
+上から4行目
+fj‘i⚪︎fkj’(σk)=fki(gk)=→
+fj‘i⚪︎fkj’(σk)=fki(σk)=
+
 66ページ
 上から7行目
 結び目群G_L(M)→

@@ -3,6 +3,7 @@
 上から4行目
 fj‘i⚪︎fkj’(σk)=fki(gk)=→
 fj‘i⚪︎fkj’(σk)=fki(σk)=
+(gk→σk)
 
 66ページ
 上から7行目

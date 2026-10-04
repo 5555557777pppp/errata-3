@@ -59,6 +59,10 @@ p.186
 dx₁⋯dx_n →
 dx₁⋯dx_d 
 
+p.219
+下から5行目　2箇所
+F_{k,m} → F_{m,k} 
+
 p.226
 f(A_jk) = (f|_{A_jk} ∘ S_jk^{-1} ᵗR_jk)(M_jk(A))→
 f(A_jk) = (f|_{A_jk} ∘ S_jk^{-1} ᵗR_jk)(M_jk(A_jk))

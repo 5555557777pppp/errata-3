@@ -59,6 +59,10 @@ p.186
 dx₁⋯dx_n →
 dx₁⋯dx_d 
 
+p.226
+f(A_jk) = (f|_{A_jk} ∘ S_jk^{-1} ᵗR_jk)(M_jk(A))→
+f(A_jk) = (f|_{A_jk} ∘ S_jk^{-1} ᵗR_jk)(M_jk(A_jk))
+
 正誤表
 p.112 l.2： |a|||f| →> |a||φ||→
 p.110 l.2： |a|||f| →> |a||φ||
